@@ -1,4 +1,5 @@
 # HTTP Status Codes for TypeScript
+[![npm version](https://badge.fury.io/js/ts-http-status-codes.svg)](https://badge.fury.io/js/ts-http-status-codes)
 
 Individual exports for each HTTP Status Code.
 
