@@ -1,4 +1,5 @@
 # HTTP Status Codes for TypeScript
+[![npm version](https://badge.fury.io/js/ts-http-status-codes.svg)](https://badge.fury.io/js/ts-http-status-codes)
 
 Individual exports for each HTTP Status Code.
 
@@ -6,7 +7,7 @@ This package differs from other previous implementations in that each status cod
 
 To install as NPM package:
 ```
-npm install --save gist:0caeaa5c6d457b1750f25fb2a256f004
+npm install --save ts-http-status-codes
 ```
 
 Usage: 
