@@ -1,0 +1,36 @@
+{
+  "name": "ts-http-status-codes",
+  "version": "1.0.0",
+  "description": "HTTP Status Codes for TypeScript",
+  "main": "lib/httpStatusCodes.js",
+  "types": "lib/httpStatusCodes.d.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {
+    "typescript": "^3.6.2"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare" : "npm run build",
+    "postversion" : "git push && git push --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jleider/ts-http-status-codes.git"
+  },
+  "keywords": [
+    "HTTP",
+    "Status",
+    "Codes",
+    "TS",
+    "TypeScript"
+  ],
+  "author": "jleider",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jleider/ts-http-status-codes/issues"
+  },
+  "homepage": "https://github.com/jleider/ts-http-status-codes#readme"
+}
