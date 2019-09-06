@@ -7,7 +7,7 @@ This package differs from other previous implementations in that each status cod
 
 To install as NPM package:
 ```
-npm install --save gist:0caeaa5c6d457b1750f25fb2a256f004
+npm install --save ts-http-status-codes
 ```
 
 Usage: 
