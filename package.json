@@ -1,6 +1,6 @@
 {
   "name": "ts-http-status-codes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "HTTP Status Codes for TypeScript",
   "main": "lib/httpStatusCodes.js",
   "types": "lib/httpStatusCodes.d.ts",
